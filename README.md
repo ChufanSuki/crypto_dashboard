@@ -1,5 +1,5 @@
 # crypto_dashboard
-
+[![Build Status](https://app.travis-ci.com/RetownPlato/crypto_dashboard.svg?branch=main)](https://app.travis-ci.com/RetownPlato/crypto_dashboard)
 ## Project setup
 ```
 npm install
