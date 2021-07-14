@@ -1,6 +1,6 @@
 {
-  "name": "crypto-dashboard",
-  "short_name": "crypto-dashboard",
+  "name": "crypto_dashboard",
+  "short_name": "crypto_dashboard",
   "icons": [
     {
       "src": "img/icons/android-chrome-192x192.png",
@@ -15,7 +15,7 @@
   ],
   "display": "standalone",
   "scope": "/",
-  "start_url": "/crypto-dashboard",
+  "start_url": "/crypto_dashboard",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
 }
