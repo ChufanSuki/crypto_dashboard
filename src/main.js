@@ -4,6 +4,7 @@ import router from './router'
 import store from './store'
 import "./assets/vendor/font-awesome/css/font-awesome.css";
 import "./assets/app.scss"
+import './registerServiceWorker'
 
 import clickOutside from "./directives/click-ouside"
 
